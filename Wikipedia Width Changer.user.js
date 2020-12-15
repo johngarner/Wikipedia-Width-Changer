@@ -2,7 +2,7 @@
 // @name         Wikipedia Width Changer
 // @namespace    https://garner.io
 // @author       John Garner
-// @version      1.0
+// @version      1.1
 // @description  A simple user script that constrains Wikipedia articles to 40em in width.
 // @icon         https://en.wikipedia.org/static/favicon/wikipedia.ico
 // @run-at       document-start
